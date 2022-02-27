@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case of conscience resolved. Wherein it is cleared, that the King may without impeachment to his oath, touching the clergy at coronation, consent to the abrogation of episcopacy. And the objections against it in two learned treatises, printed at Oxford, fully answered. / By John Geree Master of Arts, and preacher of the word of God at St. Albans. Published acording to order.</title>
+            <author>Geree, John, 1601?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85939</idno>
+            <idno type="STC">Wing G587</idno>
+            <idno type="STC">Thomason E341_4</idno>
+            <idno type="STC">ESTC R200896</idno>
+            <idno type="EEBO-CITATION">99861518</idno>
+            <idno type="PROQUEST">99861518</idno>
+            <idno type="VID">113655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113655)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case of conscience resolved. Wherein it is cleared, that the King may without impeachment to his oath, touching the clergy at coronation, consent to the abrogation of episcopacy. And the objections against it in two learned treatises, printed at Oxford, fully answered. / By John Geree Master of Arts, and preacher of the word of God at St. Albans. Published acording to order.</title>
+                  <author>Geree, John, 1601?-1649.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons, for John Bartlet, at the Guilt-Cup at Austines-Gate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "A review of the Covenant" by Gerald Langbaine, and another, unidentified work.</note>
+                  <note>Annotation on Thomason copy: "June 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langbaine, Gerard, 1609-1658. --  Review of the Covenant --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113655:1" rendition="simple:additions"/>
+            <p>A CASE OF CONSCIENCE Reſolved.</p>
+            <p>
+               <hi>Wherein it is cleared,</hi> That the KING may without im<g ref="char:EOLhyphen"/>peachment to his Oath, touching the Cler<g ref="char:EOLhyphen"/>gy at Coronation, conſent to the Abrogati<g ref="char:EOLhyphen"/>on of EPISCOPACY.</p>
+            <p>AND The OBIECTIONS againſt it in two lear<g ref="char:EOLhyphen"/>ned <hi>Treatiſes,</hi> Printed at <hi>Oxford, Fully Anſwered.</hi>
+            </p>
+            <p>By JOHN GEREE Maſter of <hi>Arts,</hi> and Preacher of the word of God at St. <hi>Albanes.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Matthew Simmons,</hi> for <hi>John Bartlet,</hi> at the Guilt-Cup at <hi>Auſtines-Gate,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113655:2"/>
+            <pb n="1" facs="tcp:113655:2"/>
+            <p>Queſtion 1.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hether the King (conſidering his Oath at Coronation to protect the Clergy and their Priviledges) can</hi> ſalvâ conſcientiâ <hi>conſent to the abrogation of Epiſcopacy?</hi>
+            </p>
+            <p>
+               <hi>Affirmation.</hi>
+            </p>
+            <p>When I conſider, firſt, That there is no hope of the Kings or Kingdomes ſafety, without an union between our King and <hi>Parliament.</hi> Secondly, that ſuch an union is <hi>tantum non</hi> impoſſible, unleſſe the King condeſcend in the point of Epiſcopacy. Thirdly, for the King to condeſcend <hi>renitente conſeientiâ,</hi> though it might gratifie us, it would be ſin<g ref="char:EOLhyphen"/>full to him, and ſo he ſhould forfeit inward to procure outward peace, and be repreſented to times in the glaſſe of Conſcience, to adventure the Heavenly to retaine an earthly Crowne. Fourthly, the Oath taken at the Kings Coronation hath been preſt by ſome learned pens with that probablity, that may ſtumble a right intelligent Reader, neither have they that I know, received any ſa<g ref="char:EOLhyphen"/>tisfactory Anſwer in print. I conceive it may be a work worthy ſome paines to reſolve this caſe, and cleere your objections, that while they ſtand unanſwered, caſt an ill reflexion both upon the King in condeſcending to abrogate Epiſcopacie, and the <hi>Parliament</hi> in preſſing him to it. Now the bond of the Kings Oath may be taken off two wayes. Either by cleering the unlawfulneſſe of it that it was <hi>vinculum iniquitatis,</hi> and ſo voide the firſt day, for <hi>qui jurat in iniquum obligatur in contrarium.</hi> And if Prelacy in the Church be an uſurpation contrary to Chriſts inſtitution, then to maintaine it is to ſinne, and all bonds to ſinne are fruſtrate. And truly, as Prelacy ſtood with us in <hi>England,</hi> ingroſſing all ruledome in the Church into the hands of a few Lord Biſhops, I thinke it may be cleered to be an uſurpation by this one Argument. <hi>That Power that deſpoyles any of Chriſts Officers of any Priviledge, or duty indulged or injoyned them by the word of God; that power is an uſurpation againſt the word. But this Prelacy did, as it ſtood in England. Ergo, Engliſh Prelacy was
+<pb n="2" facs="tcp:113655:3"/>an uſurpation againſt the word of God.</hi> The Major is cleere of it ſelf. The Minor is thus proved. Presbyters are by Chriſts warrant in Scripture indued with power to rule in their owne Congregations, as well as preach; ſee 1 <hi>Tim.</hi> 3.5. and 5.21. <hi>Heb.</hi> 13.17. 1 <hi>Theſſ.</hi> 5.12.</p>
+            <p>Now as Prelacy ſtood in <hi>England,</hi> the Presbyters were not onely excluded from all ſociety in Rule, but which was much more pre<g ref="char:EOLhyphen"/>judiciall to the dignity, and liberty of the Miniſtery, were ſubje<g ref="char:EOLhyphen"/>cted to a lay Chancelour; and was not here uſurpation againſt Gods direction?</p>
+            <p>But though this way of invalidating the Kings Oath be moſt ſa<g ref="char:EOLhyphen"/>tisfactory to ſome, yet to thoſe that are not convinc't of the unlaw<g ref="char:EOLhyphen"/>fulneſſe of Epiſcopacy it will not hold, and ſo it would caſt the reſolution of this doubt about the Oath, upon another Queſtion touching the lawfulneſſe of Epiſcopacy, which is a larger field. I ſhall therefore indeavour to ſhew that though for Argument ſake it be granted that Epiſcopacy be lawfull, yet notwithſtanding that his Oath, the King without impeachment may in this circumſtance conſent to the abrogation of Epiſcopacy.</p>
+            <p>The uſuall way of cleering this aſſertion is thus. The King is ſworne to maintaine the Lawes of the Land in force at his Corona<g ref="char:EOLhyphen"/>tion. Yet no man queſtions, and the conſtant practiſe ſhewes; that it is not unlawfull after to abrogate any upon the motion or with the conſent of his <hi>Parliament.</hi> The meaning of the Oath being knowne to be to maintaine the Lawes while they are Lawes, but when they are abrogated by juſt power in a regular way, they are then wiped out of his charge and Oath. So the King by his Oath is bound to maintaine the rights of the Clergy while they continue ſuch. But if any of their rights be abrogated by juſt power, he ſtands no longer ingaged to that particular: And this I conceive to be a ſound reſolution. For the Kings Oath is againſt acting or ſuffering a tyrannous invaſion on Lawes and rights, not againſt a Parliamen<g ref="char:EOLhyphen"/>tary alteration of either.</p>
+            <p>
+               <note place="margin">A nameleſſe Author in a Book implea<g ref="char:EOLhyphen"/>ding all war againſt the King.</note>But here ſteps in my firſt opponent, and though he diſpute mo<g ref="char:EOLhyphen"/>deſtly, onely propoſing what he holds forth to ſerious conſiderati<g ref="char:EOLhyphen"/>on, yet he objects ſubtlely and his diſcourſe runs thus. <hi>The Oath for maintenance of Lawes is made</hi> populo Anglicano <hi>to the people of Eng<g ref="char:EOLhyphen"/>land, and ſo may be taken off by a future Act, becauſe it is by their owne
+<pb n="3" facs="tcp:113655:3"/>conſent repreſented in Parliament. But the Oath to maintaine the privi<g ref="char:EOLhyphen"/>ledges of the Clergy, is made to ſuch a part of his people</hi> clero Anglicano, <hi>and particularly taken by him after his Oath to the whole Realme, which were needleſſe unleſſe it meant ſome other obligation. This ſeems (ſaith the learned Author) to make it a diſtinct obligation, and not releaſable without the Clergies conſent.</hi>
+            </p>
+            <p>I anſwer. Taking it for granted that the Oath is thus taken by the King. That Oath was ſo framed, when <hi>Clerus Anglicanus</hi> the Clergy of <hi>England,</hi> was a diſtinct ſociety or Corporation (as I may ſo ſay) <hi>à populo Anglicano,</hi> from the people of <hi>England.</hi> This diſtinction between the Clergy and Laity we may obſerve in our Hiſtorians. <hi>Daniel</hi> in the life of <hi>William</hi> the firſt, gives this for a rea<g ref="char:EOLhyphen"/>ſon why the Clergy did ſo willingly condeſcend to him, becauſe they had their Province apart, whence they ſuppoſed a ſecurity to their Priviledges, however the Laity were inſlaved.<note place="margin">
+                  <hi>Dan.</hi> in the life of <hi>William</hi> the firſt, pag. 36.</note> The ſame di<g ref="char:EOLhyphen"/>ſtinction of the Clergie and Laity is obſerved by him in the life of <hi>Henry</hi> the ſecond, pag. 83. And this was not onely in <hi>England,</hi> but in other Nations, as it is obſerved by <hi>Marſilius Patavinus</hi> a Lear<g ref="char:EOLhyphen"/>ned writer in Popiſh times. <hi>Secularium petentes faſtigia in legum lati<g ref="char:EOLhyphen"/>ones ſeorſum ab iis quae Civium univerſitatis proruperunt: omnem Cle<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> abbine decernentes exemptum: Civile ſebiſmas, &amp; principatuum ſupremorum pluralitatem inducentes ex lipſis, quam velut impoſſibilem humane quieti certam <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>jus inducentes experientiam demonſtravimus</hi> 17<hi rend="sup">o</hi>. 1<hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Marſilius Patavinus defenſi pacis, part.</hi> 2. <hi>cap.</hi> 23.<note place="margin">Hence are they ſtiled by <hi>Tindall</hi> in his practiſe of Popiſh Pre<g ref="char:EOLhyphen"/>lates, <hi>corpus neutrum.</hi>
+               </note> Now be<g ref="char:EOLhyphen"/>ing the Clergy and Laity were diſtinct bodies; the Clergie holding their rights by Priviledge diſtinct from the Lawes of the Land; an Oath to maintaine the Lawes of the Land ſecured not them: But as another body they had another Oath for their ſecurity. But now this diſtinction of the Clergie from the Laity, that they ſhould be a diſtinct Province of themſelves, being a branch of Popery, is with it quite extinguiſht: And Laity and Clergie are now one bo<g ref="char:EOLhyphen"/>dy Politick, and under the ſame power and Rule. For all privi<g ref="char:EOLhyphen"/>ledges of the Clergie that are contrariant to the Lawes of the Land, were aboliſht in the reigne of <hi>Henry</hi> the eight. As undoubtedly that was, that any ſociety ſhould be exempt from ſecular power, for that was to ſet up two Supremacies. And therefore though the Oath be continued in that order that it was when the Laity and Clergie were diſtinct bodies; yet now that this diſtinction is abrogated,
+<pb n="4" facs="tcp:113655:4"/>and they are made one, the oath to the Clergie cannot be ſtronger or more inviolable, then that to the Layetie for the preſervation of the Lawes of the Land. Both ſubject to regular alteration.</p>
+            <p>Who knowes not that one of the priviledges of the Clergie was, for the Biſhops to ſit and vote in the houſe of Peeres, yet that is aboliſht as incongruous to their calling. And then why may not the removall of their Eccleſiaſticall juriſdiction be conſented to, as well, if it prove inconvenient and prejudiciall to the Church? The abolition of the one is no more againſt the oath, then of the other.</p>
+            <p>Againe, when this oath was framed, the Church was indued with the ignorance of the times, with divers unlawfull immunities, in all which reſpects the oath was invalid, being <hi>vinculum iniqui<g ref="char:EOLhyphen"/>tatis,</hi> and ſome were pared off as light ſhined forth. And why may not the great Revenues of the Biſhops with their ſole juriſdiction in ſo large a circuit, be indicted and convict to be againſt the edifi<g ref="char:EOLhyphen"/>cation of the Church; and it be found more for the glory of God, that both the Revenue be divided to maintaine a preaching Mini<g ref="char:EOLhyphen"/>ſtery, and their juriſdiction alſo, for the better overſight and cen<g ref="char:EOLhyphen"/>ſure of manners. And then is there as good a plea, notwithſtan<g ref="char:EOLhyphen"/>ding the oath, to alter this uſeleſſe Anti-Evangelicall pompe and domination of a few, as to antiquate other immunities ariſing from the errour of the times, not the tenure of Scripture. Were indeed the priviledges in queſtion, ſuch as were for the advantage of the Church, to further her edification; or had the Prelates been good Stewards and innocent in the uſe of them; then had the plea car<g ref="char:EOLhyphen"/>ried a fairer ſhew: But there having been ſo many forfeitures by abuſe, and thoſe great promotions and juriſdictions, being as un<g ref="char:EOLhyphen"/>wieldy to a Spirituall ſouldier, as <hi>Sauls</hi> Armour to <hi>David;</hi> and ſo doe not further, but hinder the work of the Goſpel, where ſtrong holds are to be vanquiſht not by carnall pompe, but ſpirituall fur<g ref="char:EOLhyphen"/>niture mighty through God, 2 <hi>Cor.</hi> 10.4. I ſee no juſt ingagement to maintaine ſuch comberſome greatneſſe, adding onely glory to the perſon, not vigour to the maine work of a Miniſter of the Goſpel.</p>
+            <p>Againe, thus I angue. If the King may conſent to alter the Lawes of the Nation, notwithſtanding his oath, then ſo he may alſo the Clergies immunities. For thoſe rights and immunities, they either
+<pb n="5" facs="tcp:113655:4"/>hold them by Law or otherwiſe. If by Law, then the <hi>Parliament</hi> which hath power to alter all Lawes, have power to alter ſuch Lawes as give them their immunities, and thoſe Lawes altered, the immunity ceaſeth, and ſo the Kings ingagement in that particular. If their immunity be not by Law, it is either an uſurpation with<g ref="char:EOLhyphen"/>out juſt title, which upon diſcovery is null. Or it was given by Pa<g ref="char:EOLhyphen"/>pall power in times of darkneſſe, which being an Antichriſtian uſurpation is long ſince aboliſht in this Kingdome.</p>
+            <p>
+               <hi>The Author illuſtrateth the force of his argument by an example hold<g ref="char:EOLhyphen"/>ing forth an inconvenience. Where publique Faith is given for money, it is not releaſeable by Parliament, without conſent of the party: for if it be, it is in effect no engagement: ſo &amp;c.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> There's a great deale of difference between an ingagement made to perſons, on valuable conſideration, and that which is made <hi>gratis</hi> to an office or ſociety ſubſervient to publike good. Of the former kinde, is the ingagement to pay ſummes of money of whom they were borrowed for publike good, which is indiſpenſable with<g ref="char:EOLhyphen"/>out the conſent of the lender? Of the latter ſort, is this ingagement to the Engliſh Clergy. Now ingagements to a Society to main<g ref="char:EOLhyphen"/>taine their rights, indulged for the perſonall worth of preſent in<g ref="char:EOLhyphen"/>cumbents, or to promote the uſefulneſſe of that office. If in their matters they prove prejudiciall to the office, or the ſucceeding offi<g ref="char:EOLhyphen"/>cers by their ill demeanour forfeit them, their ingagement be<g ref="char:EOLhyphen"/>comes alterable: There's no injuſtice done to make a Law to over<g ref="char:EOLhyphen"/>rule, or alter this ingagement. There's no queſtion of power in the <hi>Parliament</hi> to over-rule it: for in the former caſe of money, if King and <hi>Parliament</hi> ſhould ordaine releaſe of the ingagement, the in<g ref="char:EOLhyphen"/>gagement were gone in Law though not in equity; The Order would be valid in Law though injurious: So if there be no injurie, the King and <hi>Parliament</hi> may cancell any obligation. And where there is forfeiture by miſcarriage, or the priviledge indulged to a Miniſtery (which ought to hold nothing but for publike good) proves prejudiciall; the abrogation will be juſt as well as Legall, there will be no injury done.</p>
+            <p>But take it at the worſt, it is but for the King to get the Clergies conſent, and I hope in this caſe they will not be ſo tenacious of their wealth, and honour, as to let the Crowne runne an hazard rather then lay down their Mitres, and indanger the whole Land to be
+<pb n="6" facs="tcp:113655:5"/>brought to nothing rather then themſelves to moderation: I can<g ref="char:EOLhyphen"/>not but have a better conceit of the major part of them at this time, which will amount to a conſent, and that in this Authors judgement takes off the ſcruple about the oath.</p>
+            <p>
+               <hi>Beſides this Argument, there be other inſinuations brought in by the faine Author, that it would be diſhonourable to the Kings memory, to be an unfortunate inſtrument to pull downe Cathedralls, and impoveriſh them, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To aboliſh Prelacy, and ſeize the revenues of Prelates to private or civill Intereſt, undoubtedly could neither want ſtaine nor guilt. Such kind of impropriation as happened in the dayes of <hi>Henry</hi> the eight was cried out of all the Chriſtian world over. <hi>Il<g ref="char:EOLhyphen"/>lam bonorum Eccleſiaſticorum diſſipationem cum deteſtando ſacrilegio con<g ref="char:EOLhyphen"/>junctam, tecum, &amp; cum bonis omnibus deploramus, ſcelus univerſo erbi commune,</hi> ſaith <hi>Beza in reſp. ad Sarac. de gradibus miniſt. pag. ult.</hi> But who knowes not the great defect amongſt us, of congruous maintenance for parochiall Paſtors, by whom the worke of the Miniſtery is chiefly to be performed? And if thoſe large revenues of the Prelates were diverted to ſupply with ſufficient maintenance all the defective Pariſhes in <hi>England,</hi> there would be no danger of Sacriledge: And this would not be to ruine, but to rectifie the devotion of former ages, and turne pompe into uſe, and impedi<g ref="char:EOLhyphen"/>ments into helps. A work, for which following generations ſhould not need to pity the King, as put upon it by misfortune: but riſe up and c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll him bleſſed, whoſe many other diſaſters ended in ſo good, and uſefull a work.</p>
+            <p>Had the motives of <hi>Heary</hi> the eight been as honeſt to caſt off Pa<g ref="char:EOLhyphen"/>pall uſurpation, as the Act was holy; and the improvement of Abby Lands, as conformable to Divine Law, as the diſſolution of Abbies to the Rules of Divine wiſdome; He might not onely have been honourable in our Annals: but if I may ſo ſpeak, a Saint in our <hi>Calender.</hi> It was the defective circumſtances of actions in them<g ref="char:EOLhyphen"/>ſelves glorious, which made them a diſhonour to him, though ad<g ref="char:EOLhyphen"/>vantagious to the Church, which ill circumſtances being avoided in the thing in queſtion, God and good men will highly approve it, which is the onely reall, and regardable honour. Thus far my firſt opponent.</p>
+            <p>My ſecond Antagoniſt exceeds the firſt, both in ſubtlety, and pe<g ref="char:EOLhyphen"/>remptorineſſe;
+<pb n="7" facs="tcp:113655:5"/>for he plainly affirmes,<note place="margin">A Book cal<g ref="char:EOLhyphen"/>led <hi>The re<g ref="char:EOLhyphen"/>view of the covenant.</hi> pag. 72. 73. 74.</note> that the King cannot de<g ref="char:EOLhyphen"/>ſert Epiſcopacy without flat perjury; and hence falls foule, both on thoſe that would force him to it, and alſo on thoſe moderate Courtiers that for peace ſake counſeld it. He diſputes thus <hi>There's difference between Lawes and Oathes; where the ſupreme</hi> jus Dominii <hi>is, there is a power above all Lawes, but not above their owne Oathes, in whom that power is; for Law bindes onely while it is a Law, that is, till it be repealed. But an Oath bindes as long as it pleaſeth him to whom it is taken: The reaſon is, becauſe the ſubject of ſupreme Power may</hi> cede<g ref="char:EOLhyphen"/>re jure ſuo, <hi>and oblige himſelfe where before he was free: which if they doe by promiſe, Juſtice bindes them to performance; but if by an Oath (the matter being lawfull) then are they bound in Religion, and Conſcience, for an Oath addes a religious bond unto God. If this were not ſo, no Oath were binding to them.</hi>
+            </p>
+            <p>I anſwer. Firſt, it's a ground laid downe by this Author in the ſame place; that no Oath is obligatory beyond the intention of it; and then I firſt propoſe it to conſideration, whether the intention of this Oath be not only againſt a tyrannous invaſion on the rights of the Clergy, not againſt an orderly alteration of them, if any prove inconvenient, and to protect them againſt violence, not a<g ref="char:EOLhyphen"/>gainſt legall wayes of change. For, firſt, this is as much as it is ra<g ref="char:EOLhyphen"/>tionall for a King to undertake, and therefore in right reaſon the Oath ſhould have no other ſenſe, if the words of the Oath will beare it, as the words of this Oath will. Secondly, this Oath to the Clergy, muſt not be intended in a ſenſe inconſiſtent with the Kings Oath to the people, firſt taken for their protection in their Lawes, and Liberties; for then the latter Oath would be a preſent breach of the former, and ſo unlawfull. Now one of the priviledges of the people is, that the Peeres and Commons in <hi>Parliament,</hi> have pow<g ref="char:EOLhyphen"/>er with the conſent of the King, to alter whatever in any particular eſtate is inconvenient to the whole. And therefore he cannot after<g ref="char:EOLhyphen"/>wards ingage himſelfe to any partionlar eſtate, to exempt it from this power; for by that Oath at leaſt <hi>ceſſit jure ſuo,</hi> in this Authors judgement. The Clergy and their priviledges are ſubject to the <hi>Parliament,</hi> or they are not; I hope they will not now claime an exemption from ſecular power. But if they be under Parliamen<g ref="char:EOLhyphen"/>tary power, how can it rationally be conceived to be the meaning of the Kings Oath, to preſerve the priviledges of the Clergy, againſt
+<pb n="8" facs="tcp:113655:6"/>that power to which they are legally ſubject? or how were the Oath in that ſenſe conſiſtent with the priviledges of the Nation, formerly ſworn to by the King? If the Oath had ſuch a ſenſe in the times of Popery, when the Clergy were a diſtinct corporation; yet when that exemption was aboliſht, as a branch of Antichriſtian uſurpation, the change of their condition muſt needs change the intention of the Oath, unleſſe they will ſay, that the Crown ſtands ſtill ingaged to them, to maintaine ſuch priviledges, as by Act of <hi>Parliament</hi> were long ſince aboliſht; which is to make his Oath to them contrariant to that taken before, for the maintenance of the againſt legall alteration of their priviledges by <hi>Parliament,</hi> makes it unlawfull, and ſo not obligatory. And if it be not intended againſt legall alteration, the King may paſſe a Bill for the abolition of Epiſcopacy, when his Houſes of <hi>Parliament</hi> think it convenient, and petition for it without violation of his Oath.</p>
+            <p>Secondly, I anſwer from the expreſſions in the Oath it ſelfe, as they are ſet downe by the ſame Author, pag. 74. <hi>To protect the Bi<g ref="char:EOLhyphen"/>ſhops, and their priviledges to his power, as every good King in his King<g ref="char:EOLhyphen"/>dome in right ought to protect, and defend the Biſhops, and Churches un<g ref="char:EOLhyphen"/>der their government.</hi> Here you ſee the engagement put upon the King, is but to his power, <hi>as every good King ought in right to protect, &amp;c.</hi> Now ſuch power is no further then he can doe it without ſin<g ref="char:EOLhyphen"/>ning againſt God, and being injurious to the reſt of his people. When then he hath interpoſed his Authority for them, and put forth all the power he hath to preſerve them; if after all this he muſt let them fall, or ſupport them with the blood of his good Subjects, and thoſe unwilling too to ingage their lives for the o<g ref="char:EOLhyphen"/>thers priviledges; I thinke none need queſtion, but that he hath gone to the extent of his power, and as farre as good Kings are bound in right, for it is not equall to ingage the lives of ſome to uphold the honour of others; that were to be cruell to many thouſands, to be indulgent to a few. Suppoſe a King put a Com<g ref="char:EOLhyphen"/>mander into a City, and give him an Oath to maintaine the privi<g ref="char:EOLhyphen"/>ledges of it, and keep it for him to his power; and this Comman<g ref="char:EOLhyphen"/>der keeps this Towne till he have no more ſtrength to hold it, un<g ref="char:EOLhyphen"/>leſſe he force the Townes-men to armes, againſt that priviledge which he hath ſworne to maintaine; If this Governour now ſur<g ref="char:EOLhyphen"/>render
+<pb n="9" facs="tcp:113655:6"/>this Towne upon compoſition, doth he violate his Oath? I thinke none will affirme it; Such is the caſe with the King in this particular; when he hath gone as farre in their protection as is conſiſtent with the weale of other his Liege people, which he is ſworne to tender; he hath protected them to his power, and his obligation is no further by the words of the Oath.</p>
+            <p>
+               <hi>The onely objection (as I conceive) which lyeth againſt this is, that though it be not in the Kings power to uphold them, yet it is in his pow<g ref="char:EOLhyphen"/>er not to conſent to their fall.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If the King ſhould be peremptory in denyall, what help would this be to them? ſuch peremptorineſſe in this circumſtance might indanger his Crowne, not ſave their Mitres. Beſides, though it be in his power to deny aſſent to their abolition, in a naturall ſenſe, becauſe <hi>voluntas non poteſt cogi,</hi> yet it is not in his power in a Morall ſenſe, becauſe he cannot now deny conſent without ſinne; for if he conſent not, there will evidently continue ſuch diſtracti<g ref="char:EOLhyphen"/>on and confuſion, as is moſt repugnant to the weale of his peo<g ref="char:EOLhyphen"/>ple, which he is bound by the Rule of government, and his Oath to provide for.</p>
+            <p>Thirdly, I anſwer, that this opponent in this diſpute, argues upon this ground, that the <hi>Supremum jus Dominii,</hi> even that which is above all Lawes, is in the King; which under favour, I conceive in our State is a manifeſt errour. There's a Supremacy in the King, and a Supremacy in the <hi>Parliament;</hi> but the Suprema<g ref="char:EOLhyphen"/>cie, or the <hi>Supremum jus Dominii,</hi> that is over all Lawes, <hi>figere</hi> or <hi>refigere,</hi> to make or diſanull them at pleaſure, is neither in the King nor in the Houſes apart, but in both conjoyn'd. The King is the Supreme Magiſtrate from whom all power of execution of Lawes is legally derived. The <hi>Parliament</hi> is the Supreme Court, by which all other Courts which derive their power for executi<g ref="char:EOLhyphen"/>on of Lawes from the King by his Commiſſions are to be regu<g ref="char:EOLhyphen"/>lated; and the King and the <hi>Parliament</hi> are the Supreme Power to make and diſanull Lawes. Sith then this <hi>Supremum jus Domi<g ref="char:EOLhyphen"/>nii,</hi> that is over all Lawes, is not in the King, He cannot lawful<g ref="char:EOLhyphen"/>ly make any ingagement to any, againſt the Lawes, and Legall rights of others; for that were not <hi>cedere jure ſuo,</hi> but <hi>alieno.</hi> This Oath then to the Clergy, cannot ingage him againſt the legall Pri<g ref="char:EOLhyphen"/>viledges of the people, or <hi>Parliament;</hi> which he is bound to main<g ref="char:EOLhyphen"/>taine;
+<pb n="10" facs="tcp:113655:7"/>one of which is to be ready by confirming needfull Pills, to relieve them againſt whatſoever grievance they ſuffer from any. And thus, I thinke the caſe is ſufficiently cleered, that notwith<g ref="char:EOLhyphen"/>ſtanding the Kings Oath to the Clergy at his Coronation, he may conſent to the extirpation of Prelacy out of the Church of <hi>England.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
